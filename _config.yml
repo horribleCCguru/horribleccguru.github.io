@@ -29,7 +29,7 @@ url: "https://horribleccguru.github.io" # the base hostname & protocol for your 
 github_username:  horribleccguru
 
 # Build settings
-theme: "jekyll-theme-minimal"
+theme: "jekyll-theme-hacker"
 
 plugins:
   - jekyll-feed
