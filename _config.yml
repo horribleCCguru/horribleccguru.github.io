@@ -29,11 +29,10 @@ url: "https://horribleccguru.github.io" # the base hostname & protocol for your 
 github_username:  horribleccguru
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: "jekyll-theme-minimal"
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
